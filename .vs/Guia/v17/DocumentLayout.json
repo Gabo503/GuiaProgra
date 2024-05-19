@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Guia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16B4FA4C-FA64-4229-9564-65E39F3FBD7E}|Guia\\Guia.csproj|C:\\Users\\HP\\Desktop\\Guia\\guia\\llenadodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B4FA4C-FA64-4229-9564-65E39F3FBD7E}|Guia\\Guia.csproj|solutionrelative:guia\\llenadodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B4FA4C-FA64-4229-9564-65E39F3FBD7E}|Guia\\Guia.csproj|c:\\users\\hp\\desktop\\guia\\guia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B4FA4C-FA64-4229-9564-65E39F3FBD7E}|Guia\\Guia.csproj|solutionrelative:guia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B4FA4C-FA64-4229-9564-65E39F3FBD7E}|Guia\\Guia.csproj|C:\\Users\\HP\\Desktop\\Guia\\guia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B4FA4C-FA64-4229-9564-65E39F3FBD7E}|Guia\\Guia.csproj|solutionrelative:guia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B4FA4C-FA64-4229-9564-65E39F3FBD7E}|Guia\\Guia.csproj|c:\\users\\hp\\desktop\\guia\\guia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B4FA4C-FA64-4229-9564-65E39F3FBD7E}|Guia\\Guia.csproj|solutionrelative:guia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Guia\\Guia\\Program.cs",
+              "RelativeDocumentMoniker": "Guia\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Guia\\Guia\\Program.cs",
+              "RelativeToolTip": "Guia\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:58:13.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LlenadoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Guia\\Guia\\LlenadoDatos.cs",
+              "RelativeDocumentMoniker": "Guia\\LlenadoDatos.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Guia\\Guia\\LlenadoDatos.cs",
+              "RelativeToolTip": "Guia\\LlenadoDatos.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:43:05.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Guia\\Guia\\Form1.cs",
+              "RelativeDocumentMoniker": "Guia\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Guia\\Guia\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Guia\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:24:26.731Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Guia\\Guia\\Form1.cs",
+              "RelativeDocumentMoniker": "Guia\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Guia\\Guia\\Form1.cs",
+              "RelativeToolTip": "Guia\\Form1.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAALoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:04:35.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
